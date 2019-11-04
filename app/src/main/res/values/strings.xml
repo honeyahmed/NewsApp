@@ -1,0 +1,8 @@
+
+    <resources>
+        <string name="app_name">News App </string>
+        <string name="interneterrormessages">No internet connection!\nTry Again\</string>
+        <string name="contneterrormessages">No news found!\nbecause you lose Internet connection\nTry Again</string>
+        <string name="written_by">Written by:</string>
+    </resources>
+
